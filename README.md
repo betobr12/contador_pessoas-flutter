@@ -1,5 +1,9 @@
 # contador_de_pessoas
 
+projeto com para fins educativos.
+
+Conta a quantidade de pessoas que entram e saem de em um restaurante.
+
 A new Flutter application.
 
 ## Getting Started
